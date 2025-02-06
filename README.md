@@ -5,6 +5,6 @@ Um curso de fodase
 
 ### Episódio 01 - Instalaçao Windows
 
-### Episódio 02
+### Episódio 02 - Instalaçao Mac
 
 ## Aula 02
