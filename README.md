@@ -7,4 +7,6 @@ Um curso de fodase
 
 ### Episódio 02 - Instalaçao Mac
 
+### Episódio 03 - Instalaçao Linux
+
 ## Aula 02
